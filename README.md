@@ -40,7 +40,7 @@ most suited for your case to get it:
 Edit your feeds.conf and add the following to it:
 
     # luci-theme-darkmatter
-    src-git darkmatter git://github.com/apollo-ng/luci-theme-darkmatter.git
+    src-git darkmatter git://github.com/ivotten/luci-theme-darkmatter.git
 
 Update your build environment and install the package:
 
